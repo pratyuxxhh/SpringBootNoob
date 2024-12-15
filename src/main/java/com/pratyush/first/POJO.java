@@ -1,6 +1,5 @@
 package com.pratyush.first;
 
-import com.mongodb.annotations.Immutable;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.data.annotation.Id;
